@@ -10,7 +10,6 @@ done
      else
          echo "vim-addon (vim-scripts) not installed, running 'sudo apt update; sudo apt install bc'"
          sudo apt update; sudo apt install vim-scripts
-exit
 fi
 
 echo "Installed"
