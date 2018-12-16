@@ -6,8 +6,19 @@ git clone https://github.com/flipsidecreations/dotfiles.git
 
 cd dotfiles
 ```
-### Run intstall
+### Run install
 ```
 ./install.sh
 ```
 
+# Uninstallation
+
+### Change to dotfiles folder
+```
+cd ~/dotfiles
+```
+
+### Run uninstaller
+```
+./uninstall.sh
+```
