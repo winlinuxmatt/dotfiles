@@ -105,7 +105,6 @@ set t_Co=256
 " Enable syntax highlighting
 syntax enable
 
-"set nu
 set background=dark
 "let g:solarized_termcolors=256
 " colorscheme brogrammer
